@@ -1,2 +1,2 @@
 # conf
-Configuration files for various things
+Personal configuration files for various things
